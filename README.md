@@ -1,11 +1,11 @@
-Progres Belajar di Dicoding
+# Progres Belajar di Dicoding
 
-11 September 2025
+**11 September 2025**<br>
 Belajar kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (Progres 42%)
 *Belajar memahami kebutuhan aplikasi.
 *Belajar perencanaan modifikasi aplikasi. 
 
-12 September 2025
+**12 September 2025**<br>
 Belajar kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (Progres 100%)
 *Belajar konsep dasar pemrograman.
 *Belajar modifikasi aplikasi perangkat lunak.
